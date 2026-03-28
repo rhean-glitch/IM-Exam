@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Practice extends Model
 {
-    protected $fillabel = [
+    protected $fillable = [
         'name',
     ];
 }
